@@ -22,7 +22,7 @@ import {
 
 type Props = NativeStackScreenProps<RootStackParamList, 'DesignResult'>;
 
-const API_URL = 'http://5.129.233.22:8000';
+const API_URL = 'http://5.129.233.22:8001';
 
 const STYLE_LABELS: Record<string, string> = {
   classic: 'Классический',
