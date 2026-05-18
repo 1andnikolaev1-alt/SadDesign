@@ -30,8 +30,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": ""
+        "projectId": "9a899389-a3a0-4b1b-804f-bde9f80ab283"
       }
-    }
+    },
+    "owner": "lessmer-app"
   }
 }
